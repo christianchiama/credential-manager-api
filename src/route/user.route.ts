@@ -27,7 +27,7 @@ router.get(
 router.post(
   PATH.EMPTY,
   isAuthenticated,
-  asyncHandler(isAuthorized(ROLE.ADMIN)),
+  asyncHandler(isAuthorized(ROLE.USER)),
   asyncHandler(user.createUser),
 )
 router.put(

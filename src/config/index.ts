@@ -21,6 +21,7 @@ export const ENV = {
 export const PATH = {
   EMPTY: '/',
   BASE: '/api/v1',
+  DOC: '/api/v1/swagger',
   AUTH: {
     BASE: '/auth',
     LOGIN: '/login',
