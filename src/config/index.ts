@@ -3,6 +3,10 @@ import dotenv from 'dotenv'
 
 dotenv.config()
 
+export const ENVIRONMENT = process.env.NODE_ENV || 'development'
+export const IS_PRODUCTION = ENVIRONMENT === 'production'
+export const IS_TEST = ENVIRONMENT === 'test'
+
 export const ENV = {
   SERVER_PORT: process.env.PORT,
   DB_PORT: process.env.DB_PORT,

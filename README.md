@@ -1,6 +1,6 @@
-# RESTful API Node Server Boilerplate
+# Credential Manager Api
 
-A boilerplate/starter project for quickly building RESTful APIs and with typescript 🚀
+🚀 A super Api for handler Credential Manager App
 
 ## Installation
 
@@ -65,6 +65,5 @@ Please make sure to update tests as appropriate.
 
 ## Authors
 
-- [@Youssef Hajjari](https://twitter.com/Yosufuu)
-- [@Youness Hassoune](https://twitter.com/YounessHassoune)
-- [@Othmane Kahtal](https://twitter.com/KahtalMi)
+- [@Christian Chiama](https://github.com/christianchiama)
+
