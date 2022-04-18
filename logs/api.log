@@ -1827,3 +1827,170 @@
 [[32minfo[39m]: 71
 [[32minfo[39m]: 71
 [[32minfo[39m]: 71
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: {
+  _id: new ObjectId("62566a4ac27269fe2f243590"),
+  firstName: 'Andrea',
+  username: 'andrea',
+  password: 'andrea',
+  email: 'andrea@gmail.com',
+  __v: 0,
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  updatedAt: 2022-04-17T10:39:17.275Z
+}
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: {
+  username: 'ghghjggh',
+  password: 'vhvhvjv',
+  email: 'reerw@rte.it',
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  _id: new ObjectId("625d4a164cb93657ae5e26a9"),
+  createdAt: 2022-04-18T11:23:02.378Z,
+  updatedAt: 2022-04-18T11:23:02.378Z,
+  __v: 0
+}
+[[32minfo[39m]: 72
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 72
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 32
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[31merror[39m]: Api Not found
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[31merror[39m]: Api Not found
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode

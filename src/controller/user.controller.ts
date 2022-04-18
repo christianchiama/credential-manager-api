@@ -1,6 +1,6 @@
-import { IQueryData, UserDocument } from "@type/user";
-import { Request, Response, NextFunction } from "express";
-import { UserService } from "@service/index";
+import { UserDocument } from '@type/user'
+import { UserService } from '@service/index'
+import { Request, Response, NextFunction } from 'express'
 
 /**
  *
@@ -9,8 +9,8 @@ import { UserService } from "@service/index";
  * @param next
  */
 async function countUsers(req: Request, res: Response, next: NextFunction) {
-  const users: number = await UserService.countUsers();
-  res.status(200).json(users);
+  const users: number = await UserService.countUsers()
+  res.status(200).json(users)
 }
 
 /**
@@ -20,8 +20,8 @@ async function countUsers(req: Request, res: Response, next: NextFunction) {
  * @param next
  */
 async function getUsers(req: Request, res: Response, next: NextFunction) {
-  const users: UserDocument[] = await UserService.getUsers();
-  res.status(200).json(users);
+  const users: UserDocument[] = await UserService.getUsers()
+  res.status(200).json(users)
 }
 
 /**
@@ -31,8 +31,8 @@ async function getUsers(req: Request, res: Response, next: NextFunction) {
  * @param next
  */
 async function getUser(req: Request, res: Response, next: NextFunction) {
-  const user: UserDocument = await UserService.getUser(req.params.id);
-  res.status(200).json(user);
+  const user: UserDocument = await UserService.getUser(req.params.id)
+  res.status(200).json(user)
 }
 
 /**
@@ -42,8 +42,8 @@ async function getUser(req: Request, res: Response, next: NextFunction) {
  * @param next
  */
 async function createUser(req: Request, res: Response, next: NextFunction) {
-  const user: UserDocument = await UserService.createUser(req.body);
-  res.status(201).json(user);
+  const user: UserDocument = await UserService.createUser(req.body)
+  res.status(201).json(user)
 }
 
 /**
@@ -55,9 +55,9 @@ async function createUser(req: Request, res: Response, next: NextFunction) {
 async function updateUser(req: Request, res: Response, next: NextFunction) {
   const user: UserDocument = await UserService.updateUser(
     req.params.id,
-    req.body
-  );
-  res.status(200).json(user);
+    req.body,
+  )
+  res.status(200).json(user)
 }
 
 /**
@@ -67,8 +67,8 @@ async function updateUser(req: Request, res: Response, next: NextFunction) {
  * @param next
  */
 async function deleteUser(req: Request, res: Response, next: NextFunction) {
-  await UserService.deleteUser(req.params.id);
-  res.status(200).send();
+  await UserService.deleteUser(req.params.id)
+  res.status(200).send()
 }
 
-export { getUsers, getUser, createUser, updateUser, deleteUser, countUsers };
+export { getUsers, getUser, createUser, updateUser, deleteUser, countUsers }

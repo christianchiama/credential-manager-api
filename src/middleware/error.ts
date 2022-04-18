@@ -1,4 +1,56 @@
-import { Request, Response, NextFunction } from 'express'
+/* eslint-disable @typescript-eslint/explicit-module-boundary-types */
+import { ApiError } from '@util/ApiError'
+import mongoose from 'mongoose'
+import httpStatus from 'http-status'
+import { logger as Logger } from './logger'
+import { NextFunction, Request, Response } from 'express'
+
+const errorConverter = (
+  err: any,
+  _req: Request,
+  _res: Response,
+  next: NextFunction,
+) => {
+  let error = err
+  if (!(error instanceof ApiError)) {
+    const statusCode = error.statusCode
+      ? httpStatus.BAD_REQUEST
+      : httpStatus.INTERNAL_SERVER_ERROR
+    const message = error.message || httpStatus[statusCode]
+    error = new ApiError(statusCode, message as string, true, err.stack)
+  }
+  next(error)
+}
+
+/**
+ *
+ * @param err
+ * @param req
+ * @param res
+ * @param next
+ */
+const errorHandler = (
+  err: any,
+  _req: Request,
+  res: Response,
+  next: NextFunction,
+) => {
+  let { statusCode, message } = err
+  if (!err.isOperational) {
+    statusCode = httpStatus.INTERNAL_SERVER_ERROR
+    message = httpStatus[httpStatus.INTERNAL_SERVER_ERROR]
+  }
+
+  res.locals.errorMessage = err.message
+
+  const response = {
+    code: statusCode,
+    message,
+  }
+  Logger.error(err)
+
+  res.status(statusCode).send(response)
+}
 
 /**
  *
@@ -6,18 +58,12 @@ import { Request, Response, NextFunction } from 'express'
  * @param response
  * @param next
  */
-const requestLogger = (
+const errorNotFoundHandler = (
   request: Request,
   response: Response,
   next: NextFunction,
 ) => {
-  console.log('Method:', request.method)
-  console.log('Body:  ', request.body)
-  console.log('Path:  ', request.path)
-  console.log('Params:', request.params)
-  console.log('Query:', request.query)
-  console.log('Authorization:', request.headers.authorization)
-  next()
+  next(new ApiError(httpStatus.NOT_FOUND, 'Api Not found'))
 }
 
-export { requestLogger }
+export { errorConverter, errorHandler, errorNotFoundHandler }

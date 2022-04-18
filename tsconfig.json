@@ -11,16 +11,18 @@
     "incremental": true,
     "baseUrl": "src",
     "paths": {
+      "@/*": ["./src/*"],
+      "@@/*": ["./*"],
       "@util/*": ["util/*"],
       "@type/*": ["type/*"],
       "@route/*": ["route/*"],
+      "@config/*": ["config/*"],
+      "@errors/*": ["errors/*"],
       "@service/*": ["service/*"],
       "@database/*": ["database/*"],
+      "@interface/*": ["interface/*"],
       "@controller/*": ["controller/*"],
       "@middleware/*": ["middleware/*"],
-      "@interface/*": ["interface/*"],
-      "@errors/*": ["errors/*"],
-      "@config/*": ["config/*"]
     }
   },
   "exclude": ["build", "tests", "node_modules"],
