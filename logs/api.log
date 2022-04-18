@@ -781,3 +781,722 @@
 }
 [[32minfo[39m]: 70
 [[32minfo[39m]: 70
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: {
+  _id: new ObjectId("62566a4ac27269fe2f243590"),
+  firstName: 'Andrea',
+  username: 'andrea',
+  password: 'andrea',
+  email: 'andrea@gmail.com',
+  __v: 0,
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  updatedAt: 2022-04-17T10:39:17.275Z
+}
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: {
+  _id: new ObjectId("62566a4ac27269fe2f243590"),
+  firstName: 'Andrea',
+  username: 'andrea',
+  password: 'andrea',
+  email: 'andrea@gmail.com',
+  __v: 0,
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  updatedAt: 2022-04-17T10:39:17.275Z
+}
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: {
+  _id: new ObjectId("62566a4ac27269fe2f243590"),
+  firstName: 'Andrea',
+  username: 'andrea',
+  password: 'andrea',
+  email: 'andrea@gmail.com',
+  __v: 0,
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  updatedAt: 2022-04-17T10:39:17.275Z
+}
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: {
+  _id: new ObjectId("62566a4ac27269fe2f243590"),
+  firstName: 'Andrea',
+  username: 'andrea',
+  password: 'andrea',
+  email: 'andrea@gmail.com',
+  __v: 0,
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  updatedAt: 2022-04-17T10:39:17.275Z
+}
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: {
+  _id: new ObjectId("6255d32bc354a5d83dfb85d5"),
+  firstName: 'Christian',
+  lastName: 'Chiama',
+  username: 'cchiama77',
+  password: '250977',
+  email: 'cchiama',
+  __v: 0
+}
+[[32minfo[39m]: {
+  _id: new ObjectId("62566a4ac27269fe2f243590"),
+  firstName: 'Andrea',
+  username: 'andrea',
+  password: 'andrea',
+  email: 'andrea@gmail.com',
+  __v: 0,
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  updatedAt: 2022-04-17T10:39:17.275Z
+}
+[[32minfo[39m]: {
+  _id: new ObjectId("62566a4ac27269fe2f243590"),
+  firstName: 'Andrea',
+  username: 'andrea',
+  password: 'andrea',
+  email: 'andrea@gmail.com',
+  __v: 0,
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  updatedAt: 2022-04-17T10:39:17.275Z
+}
+[[32minfo[39m]: 70
+[[32minfo[39m]: {
+  _id: new ObjectId("62566a4ac27269fe2f243590"),
+  firstName: 'Andrea',
+  username: 'andrea',
+  password: 'andrea',
+  email: 'andrea@gmail.com',
+  __v: 0,
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  updatedAt: 2022-04-17T10:39:17.275Z
+}
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: {
+  _id: new ObjectId("62566a4ac27269fe2f243590"),
+  firstName: 'Andrea',
+  username: 'andrea',
+  password: 'andrea',
+  email: 'andrea@gmail.com',
+  __v: 0,
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  updatedAt: 2022-04-17T10:39:17.275Z
+}
+[[32minfo[39m]: 70
+[[32minfo[39m]: {
+  username: 'cchiama',
+  password: 'cchiama',
+  email: 'cchiama@gmail.com',
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  _id: new ObjectId("625c603a25ea8064b13fcb89"),
+  createdAt: 2022-04-17T18:45:14.090Z,
+  updatedAt: 2022-04-17T18:45:14.090Z,
+  __v: 0
+}
+[[32minfo[39m]: {
+  _id: new ObjectId("625c603a25ea8064b13fcb89"),
+  username: 'cchiama',
+  password: 'cchiama',
+  email: 'cchiama@gmail.com',
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  createdAt: 2022-04-17T18:45:14.090Z,
+  updatedAt: 2022-04-17T18:45:14.090Z,
+  __v: 0
+}
+[[32minfo[39m]: 71
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: {
+  _id: new ObjectId("625c603a25ea8064b13fcb89"),
+  username: 'cchiama',
+  password: 'cchiama',
+  email: 'cchiama@gmail.com',
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  createdAt: 2022-04-17T18:45:14.090Z,
+  updatedAt: 2022-04-17T18:48:54.041Z,
+  __v: 0,
+  firstname: 'Christian',
+  lastname: 'Chiama'
+}
+[[32minfo[39m]: {
+  _id: new ObjectId("6255d32bc354a5d83dfb85d5"),
+  firstName: 'Christian',
+  lastName: 'Chiama',
+  username: 'cchiama77',
+  password: '250977',
+  email: 'cchiama',
+  __v: 0
+}
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: {
+  _id: new ObjectId("6255d32bc354a5d83dfb85d5"),
+  firstName: 'Christian',
+  lastName: 'Chiama',
+  username: 'cchiama77',
+  password: '250977',
+  email: 'cchiama',
+  __v: 0
+}
+[[32minfo[39m]: {
+  _id: new ObjectId("6255d32bc354a5d83dfb85d5"),
+  firstName: 'Christian',
+  lastName: 'Chiama',
+  username: 'cchiama77',
+  password: '250977',
+  email: 'cchiama',
+  __v: 0
+}
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: {
+  _id: new ObjectId("6255d32bc354a5d83dfb85d5"),
+  firstName: 'Christian',
+  lastName: 'Chiama',
+  username: 'cchiama77',
+  password: '250977',
+  email: 'cchiama',
+  __v: 0
+}
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: {
+  _id: new ObjectId("6255d32bc354a5d83dfb85d5"),
+  firstName: 'Christian',
+  lastName: 'Chiama',
+  username: 'cchiama77',
+  password: '250977',
+  email: 'cchiama',
+  __v: 0
+}
+[[32minfo[39m]: {
+  _id: new ObjectId("625c603a25ea8064b13fcb89"),
+  username: 'cchiama',
+  password: 'cchiama',
+  email: 'cchiama@gmail.com',
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  createdAt: 2022-04-17T18:45:14.090Z,
+  updatedAt: 2022-04-17T18:48:54.041Z,
+  __v: 0,
+  firstname: 'Christian',
+  lastname: 'Chiama'
+}
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: {
+  _id: new ObjectId("625c603a25ea8064b13fcb89"),
+  username: 'cchiama',
+  password: 'cchiama',
+  email: 'cchiama@gmail.com',
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  createdAt: 2022-04-17T18:45:14.090Z,
+  updatedAt: 2022-04-17T18:48:54.041Z,
+  __v: 0,
+  firstname: 'Christian',
+  lastname: 'Chiama'
+}
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: {
+  _id: new ObjectId("625c603a25ea8064b13fcb89"),
+  username: 'cchiama',
+  password: 'cchiama',
+  email: 'cchiama@gmail.com',
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  createdAt: 2022-04-17T18:45:14.090Z,
+  updatedAt: 2022-04-17T18:48:54.041Z,
+  __v: 0,
+  firstname: 'Christian',
+  lastname: 'Chiama'
+}
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: {
+  _id: new ObjectId("62566a4ac27269fe2f243590"),
+  firstName: 'Andrea',
+  username: 'andrea',
+  password: 'andrea',
+  email: 'andrea@gmail.com',
+  __v: 0,
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  updatedAt: 2022-04-17T10:39:17.275Z
+}
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: {
+  _id: new ObjectId("625c603a25ea8064b13fcb89"),
+  username: 'cchiama',
+  password: 'cchiama',
+  email: 'cchiama@gmail.com',
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  createdAt: 2022-04-17T18:45:14.090Z,
+  updatedAt: 2022-04-17T18:48:54.041Z,
+  __v: 0,
+  firstname: 'Christian',
+  lastname: 'Chiama'
+}
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 71
+[[32minfo[39m]: {
+  _id: new ObjectId("62566a4ac27269fe2f243590"),
+  firstName: 'Andrea',
+  username: 'andrea',
+  password: 'andrea',
+  email: 'andrea@gmail.com',
+  __v: 0,
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  updatedAt: 2022-04-17T10:39:17.275Z
+}
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: {
+  _id: new ObjectId("625c603a25ea8064b13fcb89"),
+  username: 'cchiama',
+  password: 'cchiama',
+  email: 'cchiama@gmail.com',
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  createdAt: 2022-04-17T18:45:14.090Z,
+  updatedAt: 2022-04-17T18:48:54.041Z,
+  __v: 0,
+  firstname: 'Christian',
+  lastname: 'Chiama'
+}
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 69
+[[32minfo[39m]: 69
+[[32minfo[39m]: 69
+[[32minfo[39m]: {
+  firstname: 'Christian',
+  lastname: 'Chiama',
+  username: 'cghcgcghhc',
+  password: 'hvjhvjhj',
+  email: 'vhvjvjvjjv@gmail.com',
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  _id: new ObjectId("625c8023e96f8aeaa53eb447"),
+  createdAt: 2022-04-17T21:01:23.574Z,
+  updatedAt: 2022-04-17T21:01:23.574Z,
+  __v: 0
+}
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: 70
+[[32minfo[39m]: {
+  username: 'fttftytytdd',
+  password: 'ttrtytyteeeeey',
+  email: 'gugiuguguigi@kk.it',
+  role: {
+    _id: new ObjectId("625bcb0dddacbaeb1d2c6a2a"),
+    name: 'User',
+    description: 'user role',
+    __v: 0
+  },
+  _id: new ObjectId("625c814ae96f8aeaa53eb46e"),
+  createdAt: 2022-04-17T21:06:18.300Z,
+  updatedAt: 2022-04-17T21:06:18.300Z,
+  __v: 0
+}
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 71
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[33mwarn[39m]: ❌ Unable to connect to SMTP server
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[33mwarn[39m]: ❌ Unable to connect to SMTP server
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[33mwarn[39m]: ❌ Unable to connect to SMTP server
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[33mwarn[39m]: ❌ Unable to connect to SMTP server
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[33mwarn[39m]: ❌ Unable to connect to SMTP server
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[33mwarn[39m]: ❌ Unable to connect to SMTP server
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[33mwarn[39m]: ❌ Unable to connect to SMTP server
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: {
+  _id: new ObjectId("624de5e5db85cdd0ef2e5202"),
+  username: 'username-74',
+  password: 'Testing123!',
+  email: 'email-74@gmail.com',
+  enabled: true,
+  __v: 0
+}
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: 🚀 Connected to MongoDB on port 2017 succesfully
+[[32minfo[39m]: 🚀 API is now running on http://locahost:8000 in development mode
+[[32minfo[39m]: {
+  _id: new ObjectId("625c603a25ea8064b13fcb89"),
+  username: 'cchiama',
+  password: 'cchiama',
+  email: 'cchiama@gmail.com',
+  role: {
+    _id: new ObjectId("625bcb59e5e31b91e6749a4e"),
+    name: 'Admin',
+    description: 'admin role',
+    __v: 0
+  },
+  createdAt: 2022-04-17T18:45:14.090Z,
+  updatedAt: 2022-04-18T04:48:05.335Z,
+  __v: 0,
+  firstname: 'Christian',
+  lastname: 'Chiama'
+}

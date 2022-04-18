@@ -1,8 +1,8 @@
 interface Role {
-  name: string;
-  description?: string;
+  name: string
+  description?: string
 }
 
-type ROLE_NAME = string;
+type ROLE_NAME = string
 
-export { Role, ROLE_NAME };
+export { Role, ROLE_NAME }
