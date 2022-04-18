@@ -37,6 +37,12 @@ const userSchema: Schema<UserDocument> = new Schema(
       unique: true,
       lowercase: true,
     },
+    enabled: {
+      type: Schema.Types.Boolean,
+      required: false,
+      trim: true,
+      default: true,
+    },
     role: {
       type: Schema.Types.ObjectId,
       ref: SCHEMA_NAME.ROLE,

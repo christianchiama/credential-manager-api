@@ -14,6 +14,7 @@ interface User extends Document {
   lastname?: string
   username: string
   password: string
+  enabled?: Boolean
   email: string
   role: Role
 }
