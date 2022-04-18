@@ -1,8 +1,9 @@
 import express from 'express'
-import asyncHandler from 'express-async-handler'
-import { RoleController } from '../controller'
 import { PATH, ROLE } from '../config/index'
+import { RoleController } from '../controller'
+import asyncHandler from 'express-async-handler'
 import { isAuthenticated, isAuthorized } from '@middleware/index'
+import { registerValidator } from '@middleware/validator'
 
 const router: express.Router = express.Router()
 
@@ -21,12 +22,14 @@ router.get(
 router.post(
   PATH.EMPTY,
   isAuthenticated,
+  registerValidator,
   asyncHandler(isAuthorized(ROLE.ADMIN)),
   asyncHandler(RoleController.createRole),
 )
 router.put(
   PATH.ROLE.ID,
   isAuthenticated,
+  registerValidator,
   asyncHandler(isAuthorized(ROLE.ADMIN)),
   asyncHandler(RoleController.updateRole),
 )
