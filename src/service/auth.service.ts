@@ -1,6 +1,6 @@
 import Jwt from 'jsonwebtoken'
 import createHttpError from 'http-errors'
-import { BearerToken, Payload, TokenResponse } from '@type/token'
+import { TokenResponse } from '@type/token'
 import { User } from 'database/schema/user.schema'
 import { EMPTY_STRING, ENV } from '../config/index'
 import { UserDocument, User as IUser } from '@type/user'

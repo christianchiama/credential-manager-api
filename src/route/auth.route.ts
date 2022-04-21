@@ -3,6 +3,7 @@ import asyncHandler from 'express-async-handler'
 import { AuthController as Auth } from '../controller'
 import { PATH } from '../config/index'
 import { loginValidator, registerValidator } from '@middleware/validator'
+import { uploader } from '@@/middleware/uploader'
 
 const router: express.Router = express.Router()
 

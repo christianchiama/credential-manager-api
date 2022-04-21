@@ -1,6 +1,5 @@
 /* eslint-disable @typescript-eslint/explicit-module-boundary-types */
 import { ApiError } from '@util/ApiError'
-import mongoose from 'mongoose'
 import httpStatus from 'http-status'
 import { logger as Logger } from './logger'
 import { NextFunction, Request, Response } from 'express'
@@ -63,7 +62,7 @@ const errorNotFoundHandler = (
   response: Response,
   next: NextFunction,
 ) => {
-  next(new ApiError(httpStatus.NOT_FOUND, 'Api Not found'))
+  next(new ApiError(httpStatus.NOT_FOUND, 'Api Not found or error in api!'))
 }
 
 export { errorConverter, errorHandler, errorNotFoundHandler }

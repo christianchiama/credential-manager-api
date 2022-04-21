@@ -1,17 +1,7 @@
-FROM node:alpine
-
-WORKDIR /app
-
-COPY package.json yarn.lock ./
-
-RUN yarn install --frozen-lockfile
-
+FROM node:12-alpine
+RUN apk add --no-cache python2 g++ make
+WORKDIR /
 COPY . .
-
-RUN yarn build
-
+RUN yarn install --production
+CMD ["node", "build/index.js"]
 EXPOSE 3000
-
-ENV PORT 3000
-
-CMD ["node", "src/server.js"]

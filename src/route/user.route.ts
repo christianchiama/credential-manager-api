@@ -3,6 +3,8 @@ import asyncHandler from 'express-async-handler'
 import { UserController as user } from '../controller'
 import { PATH, ROLE } from '../config/index'
 import { isAuthenticated, isAuthorized } from '@middleware/index'
+import { validate } from '@@/middleware/validator'
+import { mailer } from '@@/config/mail'
 
 const router: express.Router = express.Router()
 
@@ -39,7 +41,7 @@ router.put(
 router.delete(
   PATH.USER.ID,
   isAuthenticated,
-  asyncHandler(isAuthorized(ROLE.ADMIN)),
+  asyncHandler(isAuthorized(ROLE.USER)),
   asyncHandler(user.deleteUser),
 )
 

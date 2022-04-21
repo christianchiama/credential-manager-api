@@ -40,6 +40,7 @@ export const PATH = {
     BASE: '/roles',
     ID: '/:id',
   },
+  MAILER: '/sendmail',
 }
 
 export const config = {
