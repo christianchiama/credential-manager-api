@@ -7,5 +7,5 @@ module.exports = {
   },
   restoreMocks: true,
   coveragePathIgnorePatterns: ['node_modules', 'src/config', 'src/app.ts'],
-  coverageReporters: ['text', 'lcov', 'clover', 'html'],
+  coverageReporters: ['text', 'lcov', 'clover', 'html']
 }
